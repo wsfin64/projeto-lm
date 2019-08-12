@@ -240,6 +240,10 @@ footer h3 {
         text-align: end;
         justify-content: flex-end;
     }
+    
+    .cards {
+        width 30%;
+    }
 }
 
 .form-title {
