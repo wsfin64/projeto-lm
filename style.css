@@ -230,7 +230,7 @@ footer h3 {
     }
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 900px) {
     .cover_text {
         padding: 300px;
 
